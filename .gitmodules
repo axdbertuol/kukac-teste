@@ -1,0 +1,6 @@
+[submodule "kukac-teste-web"]
+	path = kukac-teste-web
+	url = https://github.com/axdbertuol/kukac-teste-web
+[submodule "kukac-teste-server"]
+	path = kukac-teste-server
+	url = https://github.com/axdbertuol/kukac-teste-server
